@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahfuzul-Alam
-- 👀 I’m interested in Photography
-- 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m fresh CSE from AIUB
+- 💞️ I’m looking to collaborate on SDET
 - 📫 How to reach me +8801939594524
 
 <!---
