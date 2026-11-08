@@ -24,5 +24,4 @@ American International University-Bangladesh (AIUB)
 AI-driven testing · Software Quality · Test Automation · Intelligent Software Engineering
 
 **Connect**
-[LinkedIn](https://www.linkedin.com/in/1-mahfuzul-alam/)
-**Email** mahfuzshanto12@gmail.com
+[LinkedIn](https://www.linkedin.com/in/1-mahfuzul-alam/) [Portfolio](https://mahfuzul-alam.github.io/) [Email] mahfuzshanto12@gmail.com
